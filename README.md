@@ -10,10 +10,10 @@ The central topic of this project is music therapy, the use of music to improve 
 * How do the reported levels of anxiety, depression, insomnia, and OCD vary among different age groups? 
 * What are the age ranges for each favorite genre?
 #### Specific Illnesses (Table 2)
-* What are the average hours per day spent listening to music for individuals based on their anxiety score? DRAFTED ✅ 
+* What are the average hours per day spent listening to music for individuals based on their anxiety score? 
 * Is there a correlation between hours spent listening to music and self-reported depression?
 * How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported insomnia?
 #### Music Listening Tools (Table 3)
-* How do the reported effects of music listening differ among individuals who play instruments and those who do not? DRAFTED ✅ 
+* How do the reported effects of music listening differ among individuals who play instruments and those who do not?
 #### Machine Learning Question
 * Using the K-means unsupervised machine learning model, can we predict an individual’s mental health state based on how frequently they listen to certain music genres?
