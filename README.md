@@ -14,7 +14,11 @@ This dataset was built by Catherine Rasgaitis, a computer science student at the
 #### Specific Illnesses (Table 2)
 * What are the average hours per day spent listening to music for individuals based on their anxiety score? 
 * Is there a correlation between hours spent listening to music and self-reported depression?
-* How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported insomnia?
+* How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported anxiety, insomnia, OCD, and depression?
+![image](https://user-images.githubusercontent.com/111245707/215640253-c965836e-82f1-48c4-b871-23aa0f9b03bd.png)
+![image](https://user-images.githubusercontent.com/111245707/215640365-d97ece8c-64c4-4c6d-a9c2-f43146136e65.png)
+![image](https://user-images.githubusercontent.com/111245707/215640389-ca3c6db8-719f-44b6-8723-0c7f6b347c9d.png)
+![image](https://user-images.githubusercontent.com/111245707/215640415-11d945fb-e07b-4c36-bca9-d2c4395a0543.png)
 #### Music Listening Tools (Table 3)
 * How do the reported effects of music listening differ among individuals who play instruments and those who do not?
 #### Machine Learning Question
