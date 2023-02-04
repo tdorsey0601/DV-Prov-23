@@ -31,9 +31,12 @@ This dataset was built by Catherine Rasgaitis, a computer science student at the
 | Gospel | 4 |
 | Latin | 2 |
 
+![image](https://user-images.githubusercontent.com/110437574/216778841-e01ea508-8d3b-4efa-aea9-570f6d373cd4.png)
+
 * What are the age ranges for each favorite genre?
 * Please see below to view the age ranges for each favorite genre. Pop and Rock had the greatest number of outliers. Rap had the greatest age range, from 14 to 89 years old.
-* (place holder for boxplot)
+
+![image](https://user-images.githubusercontent.com/110437574/216778846-af6f0659-0e24-4a75-962e-3ef931c0a306.png)
 
 #### Specific Illnesses
 * What are the average hours per day spent listening to music for individuals based on their anxiety score? 
@@ -47,7 +50,8 @@ This dataset was built by Catherine Rasgaitis, a computer science student at the
 #### Music Listening Tools
 * How do the reported effects of music listening differ among individuals who play instruments and those who do not?
 There were three possible responses for the music effects column. The options were whether music improved, worsened, or had no effect on an individual's mental state. 81.5% of instrumentalists reported that music improved their mental state, whereas only 72.6% of noninstrumentalists agreed. While both groups shared a similar percentage that music worsened their mental state, there was a higher percentage of people unimpacted at all in the noninstrumental group than the instrumental group.
-* (place holder for two pie charts)
+![image](https://user-images.githubusercontent.com/110437574/216778825-05461f62-4da0-4c22-babf-22ba94988f61.png)
+![image](https://user-images.githubusercontent.com/110437574/216778805-a821c938-e2c1-4e67-b1d5-2e8c219fda10.png)
 
 #### Machine Learning Question
 * Using the K-means unsupervised machine learning model, can we predict an individual’s mental health state based on how frequently they listen to certain music genres?
