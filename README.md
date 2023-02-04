@@ -9,11 +9,31 @@ This dataset was built by Catherine Rasgaitis, a computer science student at the
 
 ## Research Questions
 #### Demographics (Table 1)
-* How do the reported levels of anxiety, depression, insomnia, and OCD vary among different age groups? 
+* What are the counts for each favorite genre?
+The top five favorite music genres were Rock at 149, Pop at 97, Metal at 77, Classical at 38, and a tie for fifth place with Videogame music and EDM both at 36. The least favorite music genres were Country and Rap tied at 20, Jazz at 19, Lofi at 10, Gospel at 4, and Latin at 2.
+
+| Favorite Music Genre  | Count |
+| --------------------- | ----- |
+| Rock | 149 |
+| Pop | 97 |
+| Metal | 77 |  
+| Classical | 38 |
+| Videogame music | 36 | 
+| EDM | 36 |
+| Hip Hop | 32 |
+| R&B | 30 |
+| Folk | 25 |
+| K Pop | 21 |
+| Country | 20 |
+| Rap | 20 |
+| Jazz | 19 |
+| Lofi | 10 |
+| Gospel | 4 |
+| Latin | 2 |
+
 * What are the age ranges for each favorite genre?
 #### Specific Illnesses (Table 2)
 * What are the average hours per day spent listening to music for individuals based on their anxiety score? 
-* Is there a correlation between hours spent listening to music and self-reported depression?
 * How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported anxiety, insomnia, OCD, and depression?
 ![image](https://user-images.githubusercontent.com/111245707/215640253-c965836e-82f1-48c4-b871-23aa0f9b03bd.png)
 ![image](https://user-images.githubusercontent.com/111245707/215640365-d97ece8c-64c4-4c6d-a9c2-f43146136e65.png)
