@@ -56,6 +56,30 @@ Every listener recorded their depression over a level 3. Lofi, Hip Hop, and Rock
 * 
 * How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported anxiety, insomnia, and depression?
 
+![image](https://user-images.githubusercontent.com/111245707/216786244-605bc846-97e1-46e6-aa1a-42c6fc49a37e.png)
+![image](https://user-images.githubusercontent.com/111245707/216786264-7fb8b837-dc25-4f32-b3d6-7edb755681ff.png)
+![image](https://user-images.githubusercontent.com/111245707/216786270-32d67c9a-06e1-4843-9437-8117453accff.png)
+![image](https://user-images.githubusercontent.com/111245707/216786280-3d8921f9-f31d-4b17-8c36-f0fcfe229fb9.png)
+![image](https://user-images.githubusercontent.com/111245707/216786284-e5fc7541-9ade-4f42-bda5-8eae8a79d923.png)
+![image](https://user-images.githubusercontent.com/111245707/216786292-3d572865-e0e3-4a95-ac06-32efa25ddfa2.png)
+![image](https://user-images.githubusercontent.com/111245707/216786304-4d299054-43c3-4758-a0c9-95c68ae6c98f.png)
+![image](https://user-images.githubusercontent.com/111245707/216786311-4c81a038-ef36-4e5c-bc19-a777af9f24d2.png)
+![image](https://user-images.githubusercontent.com/111245707/216786319-66c449eb-242c-4aba-9c5b-2b2298f0508c.png)
+![image](https://user-images.githubusercontent.com/111245707/216786332-acd49a61-2bfd-4d07-891f-1ad2659b0daf.png)
+![image](https://user-images.githubusercontent.com/111245707/216786339-ef58b85d-10e7-40fe-8ee8-67861d21e533.png)
+![image](https://user-images.githubusercontent.com/111245707/216786347-1b93f4b4-98d8-4a22-b6d9-bf7a772e1c3c.png)
+![image](https://user-images.githubusercontent.com/111245707/216786354-3ec91a01-39db-43f6-8b39-9a7f029bbabe.png)
+![image](https://user-images.githubusercontent.com/111245707/216786362-6815ca12-d5f3-41f7-a717-2a465f5b980a.png)
+![image](https://user-images.githubusercontent.com/111245707/216786370-d0757e01-b78e-4756-ab78-12cfcecfd130.png)
+![image](https://user-images.githubusercontent.com/111245707/216786380-c9886af3-d0e0-445e-aedc-8639b83d2df6.png)
+![image](https://user-images.githubusercontent.com/111245707/216786409-38f9a041-91ef-4ce9-8eb1-7196700ef2c3.png)
+![image](https://user-images.githubusercontent.com/111245707/216786418-5c2b42fb-7696-4678-8d64-fdf84894d536.png)
+![image](https://user-images.githubusercontent.com/111245707/216786427-6f6b2031-4711-4471-8a7a-c5fd2a6373f8.png)
+![image](https://user-images.githubusercontent.com/111245707/216786432-55bc608a-f956-44c0-a976-8f90de2f1034.png)
+
+
+
+
 
 #### Music Listening Tools
 * How do the reported effects of music listening differ among individuals who play instruments and those who do not?
