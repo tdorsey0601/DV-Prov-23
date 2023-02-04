@@ -39,7 +39,7 @@ This dataset was built by Catherine Rasgaitis, a computer science student at the
 ![image](https://user-images.githubusercontent.com/110437574/216778846-af6f0659-0e24-4a75-962e-3ef931c0a306.png)
 
 #### Specific Illnesses
-* What are the average hours per day spent listening to music for individuals based on their anxiety, insomnia, OCD and despression score?
+* What are the average hours per day spent listening to music for individuals based on their anxiety, insomnia, and despression score?
 Based on the data we discovered people who typically work longer hours are less likely to listen to music as much. Latin and Jazz are the most listened to genres for people working over 10 hours per day, while gospel is the most listened to genre for people who worked less hours. 
 ![image](https://user-images.githubusercontent.com/111245707/216782097-272bce0c-a6db-4e7f-890a-9564a2901b4d.png)
 ![image](https://user-images.githubusercontent.com/111245707/216782125-de839d29-8d8f-419a-99d1-b217030e6401.png)
@@ -50,14 +50,11 @@ Every listener recorded an anxiety score over a level 4 (out of 10) but Rock, Ja
 Every listener recorded their insomnia under a level 4 except for MEtal, Lofi and Gospel
 ![image](https://user-images.githubusercontent.com/111245707/215640365-d97ece8c-64c4-4c6d-a9c2-f43146136e65.png)
 
-No listeners recorded a level over 3 
-![image](https://user-images.githubusercontent.com/111245707/215640389-ca3c6db8-719f-44b6-8723-0c7f6b347c9d.png)
-
 Every listener recorded their depression over a level 3. Lofi, Hip Hop, and Rock listeners recorded their levels above 5
 ![image](https://user-images.githubusercontent.com/111245707/215640415-11d945fb-e07b-4c36-bca9-d2c4395a0543.png)
 
 * 
-* How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported anxiety, insomnia, OCD, and depression?
+* How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported anxiety, insomnia, and depression?
 
 
 #### Music Listening Tools
