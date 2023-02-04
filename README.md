@@ -72,9 +72,17 @@ Every listener recorded their depression over a level 3. Lofi, Hip Hop, and Rock
 ![image](https://user-images.githubusercontent.com/111245707/216786362-6815ca12-d5f3-41f7-a717-2a465f5b980a.png)
 ![image](https://user-images.githubusercontent.com/111245707/216786370-d0757e01-b78e-4756-ab78-12cfcecfd130.png)
 ![image](https://user-images.githubusercontent.com/111245707/216786380-c9886af3-d0e0-445e-aedc-8639b83d2df6.png)
+
+Every listener of all ages recorded some type of improvement except for Rock, Video Game Music, Pop, Rap and Classical. These five genres showed a decrease when listeners recorded their mental state.
 ![image](https://user-images.githubusercontent.com/111245707/216786409-38f9a041-91ef-4ce9-8eb1-7196700ef2c3.png)
+
+Rock, Video Game Music, Pop, Rap and Classical listeners recorded some level of aniexty but Video Game Music listeners recorded having the highest level.
 ![image](https://user-images.githubusercontent.com/111245707/216786418-5c2b42fb-7696-4678-8d64-fdf84894d536.png)
+
+Rock, Video Game Music, Pop and Classical listeners show some type of level of insomnia but Video Game Music listeners have the highest level.
 ![image](https://user-images.githubusercontent.com/111245707/216786427-6f6b2031-4711-4471-8a7a-c5fd2a6373f8.png)
+
+Rock, Video Game Music, Pop and Classical listeners all recorded having some of the highest levels of depression.
 ![image](https://user-images.githubusercontent.com/111245707/216786432-55bc608a-f956-44c0-a976-8f90de2f1034.png)
 
 
