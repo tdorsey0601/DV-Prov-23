@@ -55,3 +55,9 @@ There were three possible responses for the music effects column. The options we
 
 #### Machine Learning Question
 * Using the K-means unsupervised machine learning model, can we predict an individual’s mental health state based on how frequently they listen to certain music genres?
+![image](https://user-images.githubusercontent.com/110437574/216779110-de84bbe4-f838-4129-8d21-2911df790351.png)
+![image](https://user-images.githubusercontent.com/110437574/216779123-dbbe5972-e1b6-4b8e-a3dc-a2c738a81f84.png)
+
+Utilizing the K-means machine learning model, we clustered the different frequencies at which each genre was listened to and their self-reported mental state. The frequencies were on a categorical scale, "Never", "Rarely", "Sometimes", and "Very frequently". The self-reported mental states for Anxiety, Depression, and Insomnia were all on a scale of 0 to 10, 10 meaning that one experienced symptoms of either illness on a frequent basis. While the K-means model is useful for visualizing groupings, this model cannot exactly explain the reason behind groups being clustered. For example, while we did find that the frequency of listening to certain genres influenced an individual's mental state more than other genres, this model cannot guarantee that may be the sole reason behind our outcome. This can demonstrate however, that there is a relationship between the values. 
+
+Since we were given string values for the music genre frequencies, they had to be converted to float values so that we could use a K-means model. After they were transformed to a scale of 0 to 3, we found that listening to Hip Hop, Pop, R&B, Rap, and Lofi at a "Very Frequently" basis were the most meaningful components in relation to one's mental state. 
