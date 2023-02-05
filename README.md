@@ -39,19 +39,10 @@ This dataset was built by Catherine Rasgaitis, a computer science student at the
 ![image](https://user-images.githubusercontent.com/110437574/216778846-af6f0659-0e24-4a75-962e-3ef931c0a306.png)
 
 #### Specific Illnesses
-* What are the average hours per day spent listening to music for individuals based on their anxiety, insomnia, and despression score?
-Based on the data we discovered people who typically work longer hours are less likely to listen to music as much. Latin and Jazz are the most listened to genres for people working over 10 hours per day, while gospel is the most listened to genre for people who worked less hours. 
-![image](https://user-images.githubusercontent.com/111245707/216782097-272bce0c-a6db-4e7f-890a-9564a2901b4d.png)
-![image](https://user-images.githubusercontent.com/111245707/216782125-de839d29-8d8f-419a-99d1-b217030e6401.png)
+* What are the average hours per day spent listening to music for individuals based on their anxiety score?
+On average, music is listened to by the participants at least 2.8 hours a day, the lowest y-value on the chart. Depending upon the anxiety score however, the results demonstrated that there was not an association between displaying more symptoms of anxiety and whether music was listened to more or less. This is cemented by the fact that the average hours per day fluctuated between 3.2 and 4 hours, the data was not trending in one direction. It is relevant to note, however, that after having an anxiety score of 7.5, the average hours of listening to music per day plateaued above 3.8 hours. 
 
-Every listener recorded an anxiety score over a level 4 (out of 10) but Rock, Jazz, K pop, Hip Hop, Pop and Folk music listeners recorded their levels over 6
-![image](https://user-images.githubusercontent.com/111245707/215640253-c965836e-82f1-48c4-b871-23aa0f9b03bd.png)
-
-Every listener recorded their insomnia under a level 4 except for MEtal, Lofi and Gospel
-![image](https://user-images.githubusercontent.com/111245707/215640365-d97ece8c-64c4-4c6d-a9c2-f43146136e65.png)
-
-Every listener recorded their depression over a level 3. Lofi, Hip Hop, and Rock listeners recorded their levels above 5
-![image](https://user-images.githubusercontent.com/111245707/215640415-11d945fb-e07b-4c36-bca9-d2c4395a0543.png)
+![image](https://user-images.githubusercontent.com/110437574/216849813-28bd5f79-aea5-4620-8b49-2ea5b96bd620.png)
 
 * How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported anxiety, insomnia, and depression?
 
@@ -83,10 +74,6 @@ Rock, Video Game Music, Pop and Classical listeners show some type of level of i
 
 Rock, Video Game Music, Pop and Classical listeners all recorded having some of the highest levels of depression.
 ![image](https://user-images.githubusercontent.com/111245707/216786432-55bc608a-f956-44c0-a976-8f90de2f1034.png)
-
-
-
-
 
 #### Music Listening Tools
 * How do the reported effects of music listening differ among individuals who play instruments and those who do not?
