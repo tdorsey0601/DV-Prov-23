@@ -44,7 +44,7 @@ On average, music is listened to by the participants at least 2.8 hours a day, t
 
 ![image](https://user-images.githubusercontent.com/110437574/216849813-28bd5f79-aea5-4620-8b49-2ea5b96bd620.png)
 
-* How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported anxiety, insomnia, and depression?
+* How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported anxiety, insomnia, OCD and depression?
 
 ![image](https://user-images.githubusercontent.com/111245707/216786244-605bc846-97e1-46e6-aa1a-42c6fc49a37e.png)
 ![image](https://user-images.githubusercontent.com/111245707/216786264-7fb8b837-dc25-4f32-b3d6-7edb755681ff.png)
