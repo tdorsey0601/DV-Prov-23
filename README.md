@@ -75,6 +75,10 @@ Rock, Video Game Music, Pop and Classical listeners show some type of level of i
 Rock, Video Game Music, Pop and Classical listeners all recorded having some of the highest levels of depression.
 ![image](https://user-images.githubusercontent.com/111245707/216786432-55bc608a-f956-44c0-a976-8f90de2f1034.png)
 
+Rock, Video Game Music, Pop, Rap and Classical listeners all have some sort of OCD but Classical music listeners recorded the highest level.
+![image](https://user-images.githubusercontent.com/111245707/217120362-07c1d95a-4ddd-4b19-b243-5b1307bebf7c.png)
+
+
 #### Music Listening Tools
 * How do the reported effects of music listening differ among individuals who play instruments and those who do not?
 There were three possible responses for the music effects column. The options were whether music improved, worsened, or had no effect on an individual's mental state. 81.5% of instrumentalists reported that music improved their mental state, whereas only 72.6% of noninstrumentalists agreed. While both groups shared a similar percentage that music worsened their mental state, there was a higher percentage of people unimpacted at all in the noninstrumental group than the instrumental group.
