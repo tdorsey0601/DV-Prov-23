@@ -34,28 +34,46 @@ This dataset was built by Catherine Rasgaitis, a computer science student at the
 ![image](https://user-images.githubusercontent.com/110437574/216778841-e01ea508-8d3b-4efa-aea9-570f6d373cd4.png)
 
 * What are the age ranges for each favorite genre?
-* Please see below to view the age ranges for each favorite genre. Pop and Rock had the greatest number of outliers. Rap had the greatest age range, from 14 to 89 years old.
+* Please see below to view the age ranges for each favorite genre. Pop and Rock had the greatest number of outliers. Rap had the greatest age range, from 13 to 89 years old. Classical music had an age range from 12 to 80. Country music was from 14 to 70. EDM had 15 to 49. Folk was from 13 to 49. Gospel was from  18 to 71, with the oldest interquartile range of 57 to 68. Hip hop was from 15 to 58. Jazz had 14 to 61. K Pop was from 14 to 30. Latin was the shortest range, since it also had the least number of counts, from 17 to 18. Lofi was 13 to 33. Metal had 15 to 48. Pop was 10 to 74. R&B was 14 to 73. Rock had 13 to 72. Finally, Videogames was 13 to 43.
 
 ![image](https://user-images.githubusercontent.com/110437574/216778846-af6f0659-0e24-4a75-962e-3ef931c0a306.png)
 
 #### Specific Illnesses
-* What are the average hours per day spent listening to music for individuals based on their anxiety, insomnia, and despression score?
-Based on the data we discovered people who typically work longer hours are less likely to listen to music as much. Latin and Jazz are the most listened to genres for people working over 10 hours per day, while gospel is the most listened to genre for people who worked less hours. 
-![image](https://user-images.githubusercontent.com/111245707/216782097-272bce0c-a6db-4e7f-890a-9564a2901b4d.png)
-![image](https://user-images.githubusercontent.com/111245707/216782125-de839d29-8d8f-419a-99d1-b217030e6401.png)
+* What are the average hours per day spent listening to music for individuals based on their anxiety score?
+On average, music is listened to by the participants at least 2.8 hours a day, the lowest y-value on the chart. Depending upon the anxiety score however, the results demonstrated that there was not an association between displaying more symptoms of anxiety and whether music was listened to more or less. This is cemented by the fact that the average hours per day fluctuated between 3.2 and 4 hours, the data was not trending in one direction. It is relevant to note, however, that after having an anxiety score of 7.5, the average hours of listening to music per day plateaued above 3.8 hours. 
 
-Every listener recorded an anxiety score over a level 4 (out of 10) but Rock, Jazz, K pop, Hip Hop, Pop and Folk music listeners recorded their levels over 6
-![image](https://user-images.githubusercontent.com/111245707/215640253-c965836e-82f1-48c4-b871-23aa0f9b03bd.png)
+![image](https://user-images.githubusercontent.com/110437574/216849813-28bd5f79-aea5-4620-8b49-2ea5b96bd620.png)
 
-Every listener recorded their insomnia under a level 4 except for MEtal, Lofi and Gospel
-![image](https://user-images.githubusercontent.com/111245707/215640365-d97ece8c-64c4-4c6d-a9c2-f43146136e65.png)
-
-Every listener recorded their depression over a level 3. Lofi, Hip Hop, and Rock listeners recorded their levels above 5
-![image](https://user-images.githubusercontent.com/111245707/215640415-11d945fb-e07b-4c36-bca9-d2c4395a0543.png)
-
-* 
 * How does the frequency of listening to different genres (e.g. pop, R&B, rap, rock, video game music) relate to self-reported anxiety, insomnia, and depression?
 
+![image](https://user-images.githubusercontent.com/111245707/216786244-605bc846-97e1-46e6-aa1a-42c6fc49a37e.png)
+![image](https://user-images.githubusercontent.com/111245707/216786264-7fb8b837-dc25-4f32-b3d6-7edb755681ff.png)
+![image](https://user-images.githubusercontent.com/111245707/216786270-32d67c9a-06e1-4843-9437-8117453accff.png)
+![image](https://user-images.githubusercontent.com/111245707/216786280-3d8921f9-f31d-4b17-8c36-f0fcfe229fb9.png)
+![image](https://user-images.githubusercontent.com/111245707/216786284-e5fc7541-9ade-4f42-bda5-8eae8a79d923.png)
+![image](https://user-images.githubusercontent.com/111245707/216786292-3d572865-e0e3-4a95-ac06-32efa25ddfa2.png)
+![image](https://user-images.githubusercontent.com/111245707/216786304-4d299054-43c3-4758-a0c9-95c68ae6c98f.png)
+![image](https://user-images.githubusercontent.com/111245707/216786311-4c81a038-ef36-4e5c-bc19-a777af9f24d2.png)
+![image](https://user-images.githubusercontent.com/111245707/216786319-66c449eb-242c-4aba-9c5b-2b2298f0508c.png)
+![image](https://user-images.githubusercontent.com/111245707/216786332-acd49a61-2bfd-4d07-891f-1ad2659b0daf.png)
+![image](https://user-images.githubusercontent.com/111245707/216786339-ef58b85d-10e7-40fe-8ee8-67861d21e533.png)
+![image](https://user-images.githubusercontent.com/111245707/216786347-1b93f4b4-98d8-4a22-b6d9-bf7a772e1c3c.png)
+![image](https://user-images.githubusercontent.com/111245707/216786354-3ec91a01-39db-43f6-8b39-9a7f029bbabe.png)
+![image](https://user-images.githubusercontent.com/111245707/216786362-6815ca12-d5f3-41f7-a717-2a465f5b980a.png)
+![image](https://user-images.githubusercontent.com/111245707/216786370-d0757e01-b78e-4756-ab78-12cfcecfd130.png)
+![image](https://user-images.githubusercontent.com/111245707/216786380-c9886af3-d0e0-445e-aedc-8639b83d2df6.png)
+
+Every listener of all ages recorded some type of improvement except for Rock, Video Game Music, Pop, Rap and Classical. These five genres showed a decrease when listeners recorded their mental state.
+![image](https://user-images.githubusercontent.com/111245707/216786409-38f9a041-91ef-4ce9-8eb1-7196700ef2c3.png)
+
+Rock, Video Game Music, Pop, Rap and Classical listeners recorded some level of aniexty but Video Game Music listeners recorded having the highest level.
+![image](https://user-images.githubusercontent.com/111245707/216786418-5c2b42fb-7696-4678-8d64-fdf84894d536.png)
+
+Rock, Video Game Music, Pop and Classical listeners show some type of level of insomnia but Video Game Music listeners have the highest level.
+![image](https://user-images.githubusercontent.com/111245707/216786427-6f6b2031-4711-4471-8a7a-c5fd2a6373f8.png)
+
+Rock, Video Game Music, Pop and Classical listeners all recorded having some of the highest levels of depression.
+![image](https://user-images.githubusercontent.com/111245707/216786432-55bc608a-f956-44c0-a976-8f90de2f1034.png)
 
 #### Music Listening Tools
 * How do the reported effects of music listening differ among individuals who play instruments and those who do not?
@@ -71,3 +89,5 @@ There were three possible responses for the music effects column. The options we
 Utilizing the K-means machine learning model, we clustered the different frequencies at which each genre was listened to and their self-reported mental state. The frequencies were on a categorical scale, "Never", "Rarely", "Sometimes", and "Very frequently". The self-reported mental states for Anxiety, Depression, and Insomnia were all on a scale of 0 to 10, 10 meaning that one experienced symptoms of either illness on a frequent basis. While the K-means model is useful for visualizing groupings, this model cannot exactly explain the reason behind groups being clustered. For example, while we did find that the frequency of listening to certain genres influenced an individual's mental state more than other genres, this model cannot guarantee that may be the sole reason behind our outcome. This can demonstrate however, that there is a relationship between the values. 
 
 Since we were given string values for the music genre frequencies, they had to be converted to float values so that we could use a K-means model. After they were transformed to a scale of 0 to 3, we found that listening to Hip Hop, Pop, R&B, Rap, and Lofi at a "Very Frequently" basis were the most meaningful components in relation to one's mental state. 
+
+To access our dashboard, please click the the following link: https://public.tableau.com/app/profile/roselyanne.cepero.santos/viz/DV-Prov-23/Dashboard1?publish=yes
