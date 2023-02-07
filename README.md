@@ -1,4 +1,4 @@
-# Exploring the Impacts of Music Therapy
+# Exploring the Impacts of Music on Mental Health
 Tiauna Dorsey & Roselyanne Cepero Santos
 
 ## Describe the Selected Topic and Reasoning behind Selection
@@ -36,7 +36,7 @@ This dataset was built by Catherine Rasgaitis, a computer science student at the
 * What are the age ranges for each favorite genre?
 * Please see below to view the age ranges for each favorite genre. Pop and Rock had the greatest number of outliers. Rap had the greatest age range, from 13 to 89 years old. Classical music had an age range from 12 to 80. Country music was from 14 to 70. EDM had 15 to 49. Folk was from 13 to 49. Gospel was from  18 to 71, with the oldest interquartile range of 57 to 68. Hip hop was from 15 to 58. Jazz had 14 to 61. K Pop was from 14 to 30. Latin was the shortest range, since it also had the least number of counts, from 17 to 18. Lofi was 13 to 33. Metal had 15 to 48. Pop was 10 to 74. R&B was 14 to 73. Rock had 13 to 72. Finally, Videogames was 13 to 43.
 
-![image](https://user-images.githubusercontent.com/110437574/216778846-af6f0659-0e24-4a75-962e-3ef931c0a306.png)
+![image](https://user-images.githubusercontent.com/110437574/217124688-3a5680e4-f391-4191-ad8f-8f9b36f8cd60.png)
 
 #### Specific Illnesses
 * What are the average hours per day spent listening to music for individuals based on their anxiety score?
@@ -82,9 +82,8 @@ Rock, Video Game Music, Pop, Rap and Classical listeners all have some sort of O
 
 #### Music Listening Tools
 * How do the reported effects of music listening differ among individuals who play instruments and those who do not?
-There were three possible responses for the music effects column. The options were whether music improved, worsened, or had no effect on an individual's mental state. 81.5% of instrumentalists reported that music improved their mental state, whereas only 72.6% of noninstrumentalists agreed. While both groups shared a similar percentage that music worsened their mental state, there was a higher percentage of people unimpacted at all in the noninstrumental group than the instrumental group.
-![image](https://user-images.githubusercontent.com/110437574/216778825-05461f62-4da0-4c22-babf-22ba94988f61.png)
-![image](https://user-images.githubusercontent.com/110437574/216778805-a821c938-e2c1-4e67-b1d5-2e8c219fda10.png)
+There were three possible responses for the music effects column. The options were whether music improved, worsened, or had no effect on an individual's mental state. 81.03% of instrumentalists reported that music improved their mental state, whereas only 71.40% of noninstrumentalists agreed. While both groups shared a similar percentage that music worsened their mental state, there was a higher percentage of people unimpacted at all in the noninstrumental group than the instrumental group.
+![image](https://user-images.githubusercontent.com/110437574/217124741-5b84f6a7-ca82-42cc-9d04-31f15dd24a01.png)
 
 #### Machine Learning Question
 * Using the K-means unsupervised machine learning model, can we predict an individual’s mental health state based on how frequently they listen to certain music genres?
